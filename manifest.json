@@ -1,0 +1,16 @@
+{
+  "name": "Investbrook",
+  "short_name": "Investbrook",
+  "description": "A high-end financial services platform facilitating direct business acquisitions and strategic M&A brokerage for retiring founders.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://media.base44.com/images/public/69c2ad8aac8950f4c01d3df3/b079a9c1f_logo.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
